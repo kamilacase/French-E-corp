@@ -1,0 +1,25 @@
+/*
+Theme Name: sydney_child
+Description: Theme enfant de Mika
+Author: french-e - WPserveur
+Author URI: 
+Template: sydney
+Version: 0.1.0
+*/
+
+body {
+    background-color: rgb(253, 0, 232);
+}
+
+@font-face {
+    font-family: frenche;
+    src: url("LLPIXEL3.ttf")
+}
+
+h1.site-title {
+    font-size: 8rem;
+    font-family: frenche;
+    font-weight: initial;
+}
+
+h2.site-description {}
